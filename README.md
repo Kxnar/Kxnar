@@ -2,11 +2,11 @@
 
 ###
 
-<img align="right" height="325" src="https://avatars.githubusercontent.com/u/142271790?v=4"  />
+<img align="right" height="220" src="https://avatars.githubusercontent.com/u/142271790?v=4"  />
 
 ###
 
-<img align="left" height="250" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156809199/original/343e3b76380997a45b5ed10869b0895ec2f95d96/draw-a-pixel-art-banner-cover-for-social-media.png"  />
+<img align="left" height="160" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/156809199/original/343e3b76380997a45b5ed10869b0895ec2f95d96/draw-a-pixel-art-banner-cover-for-social-media.png"  />
 
 ###
 <h3>&nbsp</h3>
