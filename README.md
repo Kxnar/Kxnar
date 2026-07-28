@@ -1,1 +1,1 @@
-https://kxnar.github.io/index.html
+https://kxnar.github.io/
